@@ -21,9 +21,9 @@ Sur le moniteur du bureau central se trouve le résultat de l'appel à l'API, mo
 # Aide utilisateur
 `git clone https://github.com/AzGody/2022-boswald-tomdupu-lprv`
 
-Il faut ensuite ouvrir le projet depuis Unity.
-S'assurer que le casque est connecté à votre ordinateur avec le logiciel Quest.
-Ouvrir le Quest Link depuis le casque VR.
+Il faut ensuite ouvrir le projet depuis Unity.  
+S'assurer que le casque est connecté à votre ordinateur avec le logiciel Quest.  
+Ouvrir le Quest Link depuis le casque VR.  
 Puis executer la scene depuis Unity.
 
 
